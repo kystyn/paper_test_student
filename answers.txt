@@ -4,16 +4,18 @@ B6
 55:
 A6
 56:
-REDUNDANT
+REDUNDANT1
 A6->A6
 A6
-0->A6
+REDUNDANT2
+0->A6??
 A6->C
 ~A6
 ~D6
 ~A6
 ~A6
 ~C
+int->D6
 A6 = A6 
 57:
 B6 = A6
