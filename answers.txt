@@ -5,8 +5,9 @@ B
 NVI
 4
 52:
-A
+C
 B
+redundant
 10->A
 C
 53:
